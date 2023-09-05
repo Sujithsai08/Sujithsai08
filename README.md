@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sujithsai
 - 👀 I’m interested in Devops 
-- 🌱 I’m currently learning Application Development Using Microservices and serverless
+- 🌱 I’m currently learning Amazon Web Services
 
 
 <!---
